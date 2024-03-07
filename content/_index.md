@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        NDEMobil
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **NDEMobil Research Group** is a junior research group supported by the German Federal Ministry for Research and Education through the German Medical Informatics Initiative. Its focus is on the analysis of mobile data for monitoring disease progression in neurodegenerative diseases.
   
   - block: collection
     content:
