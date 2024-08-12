@@ -7,7 +7,7 @@ authors: ["Schweizer"]
 tags: ["retreat", "publication"]
 ---
 
-Congratulations to Schweizer et al. for the publication of their "KIJANI: Designing a Physical Activity Promoting Collaborative Augmented Reality Game" paper at dHealth 2024.
+Congratulations to Schweizer et al. for the publication of their [KIJANI: Designing a Physical Activity Promoting Collaborative Augmented Reality Game](https://scholar.google.com/citations?view_op=view_citation&hl=de&user=y92_cWoAAAAJ&citation_for_view=y92_cWoAAAAJ:u-x6o8ySG0sC) paper at dHealth 2024.
 
 <!--more-->
 
