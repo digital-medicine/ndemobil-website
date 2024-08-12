@@ -3,6 +3,8 @@ title: NDEmobil visits dHealth in Vienna
 date: 2024-05-06
 image:
   focal_point: 'top'
+authors: ["Schweizer"]
+tags: ["retreat", "publication"]
 ---
 
 Congratulations to Schweizer et al. for the publication of their "KIJANI: Designing a Physical Activity Promoting Collaborative Augmented Reality Game" paper at dHealth 2024.
