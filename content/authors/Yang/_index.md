@@ -21,7 +21,6 @@ organizations:
 bio: Step into the world of digital medical health, looking forward to using ML and AI to innovate medical tools and to improve the our health. 
 
 interests:
-  - mHealth
   - dHealth
   - data analysis
   - ML/AI approches
