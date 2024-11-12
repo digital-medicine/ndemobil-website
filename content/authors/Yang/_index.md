@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: MSc in Computer Science; 
+    - course: MSc in Computer Science 
       institution: University of Bonn
       year: 2022
 
