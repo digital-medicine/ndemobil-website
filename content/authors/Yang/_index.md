@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Florian Schweizer
+title: Yifan Yang
 
 # Full Name (for SEO)
-first_name: Florian
-last_name: Schweizer
+first_name: Yifan
+last_name: Yang
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,27 +14,23 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Technical University of Munich
+  - name: University of Bonn
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Having a background in mobile & game development, I care about making preventation and early detection usable and fun.
+bio: Step into the world of digital medical health, looking forward to using ML and AI to innovate medical tools and to improve the our health. 
 
 interests:
   - mHealth
   - dHealth
-  - iOS development
-  - Active Games
+  - data analysis
+  - ML/AI approches
 
 
 education:
   courses:
-    - course: MSc in Informatics; Games Engineering
-      institution: Technical University of Munich
+    - course: MSc in Computer Science; Intellgent System: University of Bonn
       year: 2022
-    - course: BSc in Informatics; Games Engineering
-      institution: Technical University of Munich
-      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -43,13 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:florian.schweizer@tum.de'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=y92_cWoAAAAJ&hl=de&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/chflorian
+    link: 'mailto:yifan.yang@ukbonn.de'
+#  - icon: google-scholar
+  #  icon_pack: ai
+   # link: #https://scholar.google.com/citations?user=y92_cWoAAAAJ&hl=de&oi=ao
+ # - icon: github
+   # icon_pack: fab
+    #link: https://github.com/chflorian
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'florian.schweizer@tum.de'
+email: 'yifan.yang@ukbonn.de'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
