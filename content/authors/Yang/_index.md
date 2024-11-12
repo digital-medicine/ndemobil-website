@@ -28,7 +28,8 @@ interests:
 
 education:
   courses:
-    - course: MSc in Computer Science; Intellgent System: University of Bonn
+    - course: MSc in Computer Science; 
+      institution: University of Bonn
       year: 2022
 
 # Social/Academic Networking
@@ -40,8 +41,8 @@ social:
     icon_pack: fas
     link: 'mailto:yifan.yang@ukbonn.de'
 #  - icon: google-scholar
-  #  icon_pack: ai
-   # link: #https://scholar.google.com/citations?user=y92_cWoAAAAJ&hl=de&oi=ao
+#  icon_pack: ai
+# link: https://scholar.google.com/citations?user=y92_cWoAAAAJ&hl=de&oi=ao
  # - icon: github
    # icon_pack: fab
     #link: https://github.com/chflorian
