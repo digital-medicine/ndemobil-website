@@ -7,7 +7,7 @@ authors:
 - Jan Müller
 - Stephan M. Jonas
 - Lara Marie Reimer
-date: '2022-04-26T00:00:00Z'
+date: '2024-04-26T00:00:00Z'
 doi: '10.3233/SHTI240021'
 
 # Publication type.
