@@ -11,7 +11,7 @@ sections:
         NDEMobil
         Research Group
       image:
-        filename: team_vienna.jpg
+        filename: ndemobil-team.jpg
       text: |
         <br>
         
