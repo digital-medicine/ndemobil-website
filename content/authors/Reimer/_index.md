@@ -69,7 +69,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Researchers
 ---
 
 Lara Marie Reimer is leading a junior research group at the Institute of Digital Medicine at the University Hospital Bonn. Her research focuses on the development of digital biomarkers of neurodegenerative diseases using mobile devices such as smartphones and wearables.
