@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: NDEMobil Research Group # Website name
-baseURL: 'https://nde-mobil.de/' # Website URL
+baseURL: 'https://ndemobil.de/' # Website URL
 
 ############################
 ## LANGUAGE

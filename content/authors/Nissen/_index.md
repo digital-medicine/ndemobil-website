@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leon Nussen
+title: Leon Nissen
 
 # Full Name (for SEO)
 first_name: Leon
