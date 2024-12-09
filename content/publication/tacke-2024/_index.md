@@ -11,7 +11,7 @@ authors:
 - Heribert Schunkert
 - Stephan Jonas
 - Angelina Angelina
-date: '2024-05-04T00:00:00Z'
+date: '2024-01-31T00:00:00Z'
 doi: '10.1177/20552076231225168'
 
 # Publication type.
