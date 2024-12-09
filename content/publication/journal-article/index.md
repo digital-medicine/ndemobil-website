@@ -15,14 +15,14 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Applied Sciences*"
-publication_short: ""
 
 abstract: Computer-vision-based frameworks enable markerless human motion capture on consumer-grade devices in real-time. They open up new possibilities for application, such as in the health and medical sector. So far, research on mobile solutions has been focused on 2-dimensional motion capture frameworks. 2D motion analysis is limited by the viewing angle of the positioned camera. New frameworks enable 3-dimensional human motion capture and can be supported through additional smartphone sensors such as {LiDAR}. 3D motion capture promises to overcome the limitations of 2D frameworks by considering all three movement planes independent of the camera angle. In this study, we performed a laboratory experiment with ten subjects, comparing the joint angles in eight different body-weight exercises tracked by Apple {ARKit}, a mobile 3D motion capture framework, against a gold-standard system for motion capture: the Vicon system. The 3D motion capture framework exposed a weighted Mean Absolute Error of 18.80° ± 12.12° (ranging from 3.75° ± 0.99° to 47.06° ± 5.11° per tracked joint angle and exercise) and a Mean Spearman Rank Correlation Coefficient of 0.76 for the whole data set. The data set shows a high variance of those two metrics between the observed angles and performed exercises. The observed accuracy is influenced by the visibility of the joints and the observed motion. While the 3D motion capture framework is a promising technology that could enable several use cases in the entertainment, health, and medical area, its limitations should be considered for each potential application area.
 
 tags:
 - Source Themes
 featured: false
----
+
+
 title: "Guideline-Based Cardiovascular Risk Assessment Delivered by an {mHealth} App: Development Study"
 authors:
 - Fabian Starnecker
@@ -49,7 +49,6 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*JMIR Cardio*"
-publication_short: ""
 
 abstract: Background
               Identifying high-risk individuals is crucial for preventing cardiovascular diseases ({CVDs}). Currently, risk assessment is mostly performed by physicians. Mobile health apps could help decouple the determination of risk from medical resources by allowing unrestricted self-assessment. The respective test results need to be interpretable for laypersons.
@@ -73,7 +72,8 @@ abstract: Background
 tags:
 - Source Themes
 featured: false
----
+
+
 title: "The German version of the {mHealth} App Usability Questionnaire ({GER}-{MAUQ}): Translation and validation study in patients with cardiovascular disease"
 authors:
 - Theodora Tacke
@@ -116,6 +116,57 @@ abstract: Objective
 tags:
 - Source Themes
 featured: false
+
+
+title: "User-centered development of an {mHealth} app for cardiovascular prevention"
+authors:
+- Lara Marie Reimer
+- Leon Nissen
+- Moritz Von Scheidt
+- Benedikt Perl
+- Jens Wiehler
+- Sinann Al Najem
+- Florian P. Limbourg
+- Theodora Tacke
+- Angelina Müller
+- Stephan  Jonas
+- Heribert Schunkert
+- Fabian Starnecker
+date: "2022-05-06T00:00:00Z"
+doi: "10.1177/20552076241249269"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*DIGITAL HEALTH*"
+publication_short: ""
+
+abstract: Background
+              Mobile health ({mHealth}) apps can be used for cardiovascular disease ({CVD}) prevention. User-centered design, evidence-based content and user testing can be applied to ensure a high level of usability and adequate app access.
+            
+            
+              Objective
+              To develop and evaluate an {mHealth} app ( {HerzFit}) for {CVD} prevention.
+            
+            
+              Methods
+              {HerzFit}´s development included a user-centered design approach and guideline-based content creation based on the identified requirements of the target group. Beta testing and a preliminary usability evaluation of the {HerzFit} prototype were performed. For evaluation, German versions of the System Usability Scale ({SUS}) and the {mHealth} App Usability Questionnaire ({GER}-{MAUQ}) as well as free text feedback were applied.
+            
+            
+              Results
+              User-centered design thinking led to the definition of four personas. Based on their requirements, {HerzFit} enables users to individually assess, monitor, and optimize their cardiovascular risk profile. Users are also provided with a variety of evidence-based information on {CVD} and their risk factors. The user interface and system design followed the identified functional requirements. Beta-testers provided feedback on the structure and functionality and rated the usability of {HerzFit}´s prototype as slightly above average both in {SUS} and {GER}-{MAUQ} rating. Participants positively noted the variety of functions and information presented in {HerzFit}, while negative feedback mostly concerned wearable synchronization.
+            
+            
+              Conclusions
+              The present study demonstrates the user-centered development of a guideline-based {mHealth} app for {CVD} prevention. Beta-testing and a preliminary usability study were used to further improve the {HerzFit} app until its official release.
+
+tags:
+- Source Themes
+featured: false
+
 ---
 
 {{% callout note %}}
@@ -127,3 +178,5 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
