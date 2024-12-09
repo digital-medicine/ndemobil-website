@@ -32,7 +32,7 @@ abstract: Objective
             
             
               Results
-              After conducting three cognitive interviews, five items were modified. The values for Cronbach alpha for the entire questionnaire and the three subscales (0.966, 0.814, 0.910, and 0.909) indicate strong internal consistency. The correlation analysis revealed that the scores of the GER-MAUQ, the subscales and the SUS were strongly correlated with each other. The correlation coefficient of the SUS and the GER-MAUQ overall score was r = 0.854, P \textless 0.001 and the coefficients of the subscales and the SUS were r = 0.642, P \textless 0.001; r = 0.866, P \textless 0.001 and r = 0.643, P \textless 0.001.
+              After conducting three cognitive interviews, five items were modified. The values for Cronbach alpha for the entire questionnaire and the three subscales (0.966, 0.814, 0.910, and 0.909) indicate strong internal consistency. The correlation analysis revealed that the scores of the GER-MAUQ, the subscales and the SUS were strongly correlated with each other. The correlation coefficient of the SUS and the GER-MAUQ overall score was r = 0.854, P = 0.001 and the coefficients of the subscales and the SUS were r = 0.642, P \textless 0.001; r = 0.866, P = 0.001 and r = 0.643, P = 0.001.
             
             
               Conclusions
