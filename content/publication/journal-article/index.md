@@ -1,29 +1,29 @@
 ---
-title: "Evaluating 3D Human Motion Capture on Mobile Devices"
+title: 'Evaluating 3D Human Motion Capture on Mobile Devices'
 authors:
 - Lara Marie Reimer
 - Maximilian Kapsecker 
 - Takashi Fukushima 
 - Stephan M. Jonas
-date: "2022-05-10T00:00:00Z"
-doi: "10.3390/app12104806"
+date: '2022-05-10T00:00:00Z'
+doi: '10.3390/app12104806'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Sciences*"
+publication: In *Applied Sciences*
 
-abstract: Computer-vision-based frameworks enable markerless human motion capture on consumer-grade devices in real-time. They open up new possibilities for application, such as in the health and medical sector. So far, research on mobile solutions has been focused on 2-dimensional motion capture frameworks. 2D motion analysis is limited by the viewing angle of the positioned camera. New frameworks enable 3-dimensional human motion capture and can be supported through additional smartphone sensors such as {LiDAR}. 3D motion capture promises to overcome the limitations of 2D frameworks by considering all three movement planes independent of the camera angle. In this study, we performed a laboratory experiment with ten subjects, comparing the joint angles in eight different body-weight exercises tracked by Apple {ARKit}, a mobile 3D motion capture framework, against a gold-standard system for motion capture: the Vicon system. The 3D motion capture framework exposed a weighted Mean Absolute Error of 18.80° ± 12.12° (ranging from 3.75° ± 0.99° to 47.06° ± 5.11° per tracked joint angle and exercise) and a Mean Spearman Rank Correlation Coefficient of 0.76 for the whole data set. The data set shows a high variance of those two metrics between the observed angles and performed exercises. The observed accuracy is influenced by the visibility of the joints and the observed motion. While the 3D motion capture framework is a promising technology that could enable several use cases in the entertainment, health, and medical area, its limitations should be considered for each potential application area.
+abstract: 'Computer-vision-based frameworks enable markerless human motion capture on consumer-grade devices in real-time. They open up new possibilities for application, such as in the health and medical sector. So far, research on mobile solutions has been focused on 2-dimensional motion capture frameworks. 2D motion analysis is limited by the viewing angle of the positioned camera. New frameworks enable 3-dimensional human motion capture and can be supported through additional smartphone sensors such as {LiDAR}. 3D motion capture promises to overcome the limitations of 2D frameworks by considering all three movement planes independent of the camera angle. In this study, we performed a laboratory experiment with ten subjects, comparing the joint angles in eight different body-weight exercises tracked by Apple {ARKit}, a mobile 3D motion capture framework, against a gold-standard system for motion capture: the Vicon system. The 3D motion capture framework exposed a weighted Mean Absolute Error of 18.80° ± 12.12° (ranging from 3.75° ± 0.99° to 47.06° ± 5.11° per tracked joint angle and exercise) and a Mean Spearman Rank Correlation Coefficient of 0.76 for the whole data set. The data set shows a high variance of those two metrics between the observed angles and performed exercises. The observed accuracy is influenced by the visibility of the joints and the observed motion. While the 3D motion capture framework is a promising technology that could enable several use cases in the entertainment, health, and medical area, its limitations should be considered for each potential application area.'
 
 tags:
 - Source Themes
 featured: false
 
 
-title: "Guideline-Based Cardiovascular Risk Assessment Delivered by an {mHealth} App: Development Study"
+title: 'Guideline-Based Cardiovascular Risk Assessment Delivered by an {mHealth} App: Development Study'
 authors:
 - Fabian Starnecker
 - Lara Marie Reimer
@@ -39,16 +39,16 @@ authors:
 - Ruoyu Sun
 - Stephan M. Jonas
 - Heribert Schunkert
-date: "2023-12-08T00:00:00Z"
-doi: "10.2196/50813"
+date: '2023-12-08T00:00:00Z'
+doi: '10.2196/50813'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*JMIR Cardio*"
+publication: '*JMIR Cardio*'
 
 abstract: Background
               Identifying high-risk individuals is crucial for preventing cardiovascular diseases ({CVDs}). Currently, risk assessment is mostly performed by physicians. Mobile health apps could help decouple the determination of risk from medical resources by allowing unrestricted self-assessment. The respective test results need to be interpretable for laypersons.
@@ -74,7 +74,7 @@ tags:
 featured: false
 
 
-title: "The German version of the {mHealth} App Usability Questionnaire ({GER}-{MAUQ}): Translation and validation study in patients with cardiovascular disease"
+title: 'The German version of the {mHealth} App Usability Questionnaire ({GER}-{MAUQ}): Translation and validation study in patients with cardiovascular disease'
 authors:
 - Theodora Tacke
 - Pascal Nohl-Deryk
@@ -86,17 +86,17 @@ authors:
 - Heribert Schunkert
 - Stephan Jonas
 - Angelina Angelina
-date: "2024-05-04T00:00:00Z"
-doi: "10.1177/20552076231225168"
+date: '2024-05-04T00:00:00Z'
+doi: '10.1177/20552076231225168'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*DIGITAL HEALTH*"
-publication_short: ""
+publication: '*DIGITAL HEALTH*'
+publication_short: ''
 
 abstract: Objective
               In Germany, only a few standardized evaluation tools for assessing the usability of mobile Health apps exist so far. This study aimed to translate and validate the English patient version for standalone apps of the {mHealth} App Usability Questionnaire ({MAUQ}) into a German version.
@@ -118,7 +118,7 @@ tags:
 featured: false
 
 
-title: "User-centered development of an {mHealth} app for cardiovascular prevention"
+title: 'User-centered development of an {mHealth} app for cardiovascular prevention'
 authors:
 - Lara Marie Reimer
 - Leon Nissen
@@ -132,17 +132,17 @@ authors:
 - Stephan  Jonas
 - Heribert Schunkert
 - Fabian Starnecker
-date: "2022-05-06T00:00:00Z"
-doi: "10.1177/20552076241249269"
+date: '2022-05-06T00:00:00Z'
+doi: '10.1177/20552076241249269'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*DIGITAL HEALTH*"
-publication_short: ""
+publication: '*DIGITAL HEALTH*'
+publication_short: ''
 
 abstract: Background
               Mobile health ({mHealth}) apps can be used for cardiovascular disease ({CVD}) prevention. User-centered design, evidence-based content and user testing can be applied to ensure a high level of usability and adequate app access.
@@ -162,6 +162,34 @@ abstract: Background
             
               Conclusions
               The present study demonstrates the user-centered development of a guideline-based {mHealth} app for {CVD} prevention. Beta-testing and a preliminary usability study were used to further improve the {HerzFit} app until its official release.
+
+tags:
+- Source Themes
+featured: false
+
+
+title: 'Evaluation of the gamified application {KIJANI} to promote physical activity in children and adolescents: A multimethod study'
+authors:
+- Laura Willinger
+- Florian Schweizer
+- Birgit Böhm
+- Daniel A Scheller
+- Stephan Jonas
+- Renate Oberhoffer-Fritz
+- Jan Müller
+- Lara Marie Reimer
+date: '2022-09-17T00:00:00Z'
+doi: '10.1177/20552076241271861'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['article-journal']
+
+# Publication name and optional abbreviated publication name.
+publication: In *DIGITAL HEALTH*
+
+abstract: 'Objective Digital approaches have the potential to make activity promotion attractive and age-appropriate for children and adolescents. {KIJANI} is a mobile application aiming to increase physical activity ({PA}) in youth via gamification and augmented reality. This study investigates the user experience with {KIJANI} through a multimethod approach. Approaches {KIJANI} is based on the concept that virtual coins can be earned through {PA}, for example, in the form of collected step counts. With these coins, blocks can be bought, which can be used to create virtual buildings and landscapes and integrate these into the players real-world environment via augmented reality. To evaluate the user experience, participants played {KIJANI} in groups of three for 25 min. Afterwards {KIJANI} was evaluated qualitatively with one-on-one semi-structured interviews as well as quantitatively with standardized questionnaires. Results Overall, 22 participants (12.6 ± 1.7 years, 6 girls) were included in the study. The overall game concept and realization were well received by the target group. Study participants did have various and creative ideas for the further development of {KIJANI}. The majority ( n = 16) thought that using {KIJANI} would increase their {PA} level. User experience based on the {UEQ} scale was (mean ± {SD}): attractiveness (1.78 ± 1.82), perspicuity (2.15 ± 0.680), efficiency (0.67 ± 1.25), dependability, (1.21 ± 0.93), stimulation (1.24 ± 1.78), and novelty (1.27 ± 1.34). Conclusion With these insights, a further step has been taken in the participatory development of {KIJANI}. Apps like {KIJANI} appear to be suitable for {PA} promotion in children and adolescents.'
 
 tags:
 - Source Themes
