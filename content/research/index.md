@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
+  - block: markdown
     id: section-1
     content:
       title: 👋 Welcome to the group NDEMobil
@@ -16,7 +16,7 @@ sections:
     id: section-2
     content:
       title: Lunch & Learn ☕️
-      text: "Share your knowledge with the group and explore exciting new topics together!"
+      text: Share your knowledge with the group and explore exciting new topics together!
       align: center
 
     design:
