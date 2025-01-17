@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 👋 Welcome to the group NEDMobile
+        - title: 👋 Welcome to the group NEDMobil
           content: Take a look at what we're working on...
           align: center
         - title: Lunch & Learn ☕️
@@ -30,4 +30,5 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 1000
+      color: "black"
 ---
