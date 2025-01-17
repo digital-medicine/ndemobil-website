@@ -9,9 +9,9 @@ sections:
     id: section-1
     content:
       title: 👋 Welcome to the group NDEMobil
-      text:
-        - "Take a look at what we're working on..."
-        - "You make find the bullet points about our projects"
+      text: |
+        - Take a look at what we're working on... \n
+        - You make find the bullet points about our projects
 
       align: center
 
@@ -19,9 +19,9 @@ sections:
     id: section-2
     content:
       title: iSpatial
-      text:
-        - "A smartphone app project"
-        - "Aim to detect the dementia in the early stage by passively observing users walking pattern"
+      text: |
+        - A smartphone app project
+        - Aim to detect the dementia in the early stage by passively observing users walking pattern
       align: center
 
     design:
