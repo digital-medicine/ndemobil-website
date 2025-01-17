@@ -28,4 +28,5 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 1000
       color: "black"
+      view: showcase
 ---
