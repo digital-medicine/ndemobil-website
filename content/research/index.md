@@ -10,8 +10,9 @@ sections:
     content:
       title: 👋 Welcome to the group NDEMobil
       text:
-        - Take a look at what we're working on...
-        - You make find the bullet points about our projects
+        - "Take a look at what we're working on..."
+        - "You make find the bullet points about our projects"
+
       align: center
 
   - block: markdown
@@ -19,8 +20,8 @@ sections:
     content:
       title: iSpatial
       text:
-        - A smartphone app project
-        - Aim to detect the dementia in the early stage by passively observing users walking pattern
+        - "A smartphone app project"
+        - "Aim to detect the dementia in the early stage by passively observing users walking pattern"
       align: center
 
     design:
