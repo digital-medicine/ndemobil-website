@@ -13,10 +13,10 @@ sections:
           align: center
         - title: Lunch & Learn ☕️
           content: "Share your knowledge with the group and explore exciting new topics together!"
-          align: left
+          align: center
         - title: World-Class Semiconductor Lab
           content: "Just opened last month!"
-          align: right
+          align: center
           link:
             icon: graduation-cap
             icon_pack: fas
