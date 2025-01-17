@@ -6,22 +6,20 @@ type: landing
 
 sections:
   - block: slider
+    id: section-1
     content:
       slides:
         - title: 👋 Welcome to the group NDEMobil
           content: Take a look at what we're working on...
           align: center
-        - title: Lunch & Learn ☕️
-          content: "Share your knowledge with the group and explore exciting new topics together!"
-          align: center
-        - title: World-Class Semiconductor Lab
-          content: "Just opened last month!"
-          align: center
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: ../contact/
+
+  - block: markdown
+    id: section-2
+    content:
+      title: Lunch & Learn ☕️
+      text: "Share your knowledge with the group and explore exciting new topics together!"
+      align: left
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ""
