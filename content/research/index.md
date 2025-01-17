@@ -8,17 +8,16 @@ sections:
   - block: slider
     id: section-1
     content:
-      slides:
-        - title: 👋 Welcome to the group NDEMobil
-          content: Take a look at what we're working on...
-          align: center
+      title: 👋 Welcome to the group NDEMobil
+      content: Take a look at what we're working on...
+      align: center
 
   - block: markdown
     id: section-2
     content:
       title: Lunch & Learn ☕️
       text: "Share your knowledge with the group and explore exciting new topics together!"
-      align: left
+      align: center
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
