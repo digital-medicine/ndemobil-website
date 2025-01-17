@@ -9,7 +9,7 @@ sections:
     id: section-1
     content:
       title: 👋 Welcome to the group NDEMobil
-      content: Take a look at what we're working on...
+      text: Take a look at what we're working on...
       align: center
 
   - block: markdown
