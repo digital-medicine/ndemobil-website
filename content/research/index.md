@@ -25,14 +25,14 @@ sections:
       align: center
 
   - block: markdown
-      id: section-3
-      content:
-        title: iBehave IP9
-        text: |
-          - Convert existing Leap Motion project to mobile devices
-          - Use Unity & support game controller hardware
-          - Export collected data & upload to server
-        align: center
+    id: section-3
+    content:
+      title: iBehave IP9
+      text: |
+        - Convert existing Leap Motion project to mobile devices
+        - Use Unity & support game controller hardware
+        - Export collected data & upload to server
+      align: center
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
