@@ -10,7 +10,7 @@ sections:
     content:
       title: 👋 Welcome to the group NDEMobil
       text: |
-        - Take a look at what we're working on... \n
+        - Take a look at what we're working on...
         - You make find the bullet points about our projects
 
       align: center
