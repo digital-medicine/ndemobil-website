@@ -8,10 +8,10 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: 👋 Welcome to the group NDEMobil
-      text: |
-        - Take a look at what we're working on...
-        - You make find the bullet points about our projects
+      title: Our Research Projects
+      # text: |
+      #   - Take a look at what we're working on...
+      #   - You make find the bullet points about our projects
 
       align: center
 
@@ -23,6 +23,16 @@ sections:
         - A smartphone app project
         - Aim to detect the dementia in the early stage by passively observing users walking pattern
       align: center
+
+  - block: markdown
+      id: section-3
+      content:
+        title: iBehave IP9
+        text: |
+          - Convert existing Leap Motion project to mobile devices
+          - Use Unity & support game controller hardware
+          - Export collected data & upload to server
+        align: center
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
