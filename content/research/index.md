@@ -18,10 +18,11 @@ sections:
   - block: markdown
     id: section-2
     content:
-      title: iSpatial
+      title: MindTrack
       text: |
-        - A smartphone app project
-        - Aim to detect the dementia in the early stage by passively observing users walking pattern
+        - Implement existing cognitive (& motor, sounds, misc.) assessments
+        - Deployed in clinics
+        - Easy to use for doctors & medical staff
       align: center
 
   - block: markdown
@@ -32,6 +33,34 @@ sections:
         - Convert existing Leap Motion project to mobile devices
         - Use Unity & support game controller hardware
         - Export collected data & upload to server
+      align: center
+
+  - block: markdown
+    id: section-4
+    content:
+      title: iSpatial
+      text: |
+        - A smartphone app project
+        - Aim to detect the dementia in the early stage by passively observing users walking pattern
+      align: center
+
+  - block: markdown
+    id: section-5
+    content:
+      title: KIJANI
+      text: |
+        - Increase PA in players
+        - Create safe environment
+      align: center
+
+  - block: markdown
+    id: section-5
+    content:
+      title: Human Motion Recognition
+      text: |
+        - Only mobile devices
+        - Detailed analysis of individual body movements
+        - Visualization of problematic movement patterns
       align: center
 
     design:
