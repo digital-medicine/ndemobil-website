@@ -15,7 +15,9 @@ role: Head of the Research Group
 # Organizations/Affiliations
 organizations:
   - name: University Hospital Bonn
-    url: ''
+    url: 'https://www.idm.uni-bonn.de'
+  - name: Fraunhofer SCAI
+    url: 'https://www.scai.fraunhofer.de'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on identifying and developing digital biomarkers for neurodegenerative diseases using mobile devices.
@@ -71,4 +73,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Lara Marie Reimer is leading a junior research group at the Institute of Digital Medicine at the University Hospital Bonn. Her research focuses on the development of digital biomarkers of neurodegenerative diseases using mobile devices such as smartphones and wearables.
+Lara Marie Reimer is leading the junior research group NDEMobil at the Institute of Digital Medicine at the University Hospital Bonn and the Digital Biomarkers Group at Fraunhofer SCAI. Her research focuses on the development of digital biomarkers of neurodegenerative diseases using mobile devices such as smartphones and wearables.
