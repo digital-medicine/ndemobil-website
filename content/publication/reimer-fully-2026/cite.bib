@@ -1,0 +1,33 @@
+@article{reimer_fully_2026,
+ abstract = {Background
+The European General Data Protection Regulation (GDPR) strictly regulates the processing of personal and health-related data, posing challenges for digital health research, especially when data are collected using participants’ own devices. Although scientific data can theoretically be anonymized, standard internet communication protocols inevitably expose transmission metadata, preventing true anonymization. Existing solutions, including virtual private networks, reverse proxies, and trust centers, improve confidentiality but do not technically or legally enable fully anonymized data collection. Consequently, large-scale digital health research often requires extensive organizational measures, complex consent procedures, and high regulatory overhead.
+
+
+Objective
+This study aimed to develop a GDPR-compliant concept for fully anonymized scientific data collection, ensuring that no entity has simultaneous access to identifying information and donated data. We also implemented and evaluated this concept in a real-world public-private partnership.
+
+
+Methods
+We designed a data donation architecture based on a blinded deidentification proxy that decouples identifying transmission metadata from encrypted user data at the time of donation. The concept combines symmetric (Advanced Encryption Standard-128 in Cipher Block Chaining) and asymmetric (Rivest-Shamir-Adleman with Optimal Asymmetric Encryption Padding) encryption, enabling end-to-end encrypted and anonymized data transfer without persistent identifiers. The system was integrated into the HerzFit app, a mobile lifestyle coach for cardiovascular disease prevention available in German-speaking countries, and evaluated for adoption, technical feasibility, and performance. Performance overhead was assessed using round-trip time benchmarks. Duplicate donations were identified and merged to estimate unique data donors.
+
+
+Results
+The solution was integrated and tested in the HerzFit app with more than 200,000 downloads between April 2022 and December 2025. Since the introduction of the data donation feature, more than 13,000 donations have been received, translating to more than 9000 individual users contributing anonymized datasets. Proxy-based transmission resulted in an average round-trip time of 143 ms, compared to 58 ms for direct transfer, representing a modest overhead while maintaining usability. The operator of the donation database did not gain access to identifying information at any stage, demonstrating full technical anonymization. The approach can be operated reliably at scale with minimal server resources due to the stateless proxy design.
+
+
+Conclusions
+This work introduces a novel system architecture enabling fully anonymized, GDPR-compliant data donation directly from participants’ devices. By decoupling identifying metadata from encrypted health data, the concept minimizes regulatory effort, strengthens privacy protection, and provides a practical framework for large-scale digital health research in research partnerships, for example, between a private company and a research institution. The real-world deployment in HerzFit demonstrates the feasibility, scalability, and scientific utility of this approach. The concept is broadly transferable to other mobile health apps and has the potential to substantially expand ethically and legally compliant data acquisition.},
+ author = {Reimer, Lara Marie and Nissen, Leon and Starnecker, Fabian and Stepanova, Olga and Dufour, Florent and Ney, Ruth and Al Najem, Sinann and Schunkert, Heribert and Jonas, Stephan M},
+ doi = {10.2196/77983},
+ issn = {2561-326X},
+ journal = {JMIR Formative Research},
+ language = {en},
+ month = {May},
+ pages = {e77983},
+ shorttitle = {Fully Anonymized Digital Health Data Acquisition in a Research Partnership Using a Blinded Deidentification Proxy in the HerzFit App},
+ title = {Fully Anonymized Digital Health Data Acquisition in a Research Partnership Using a Blinded Deidentification Proxy in the HerzFit App: Implementation Study},
+ url = {https://formative.jmir.org/2026/1/e77983},
+ urldate = {2026-05-20},
+ volume = {10},
+ year = {2026}
+}
