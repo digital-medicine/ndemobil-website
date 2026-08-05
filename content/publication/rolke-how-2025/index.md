@@ -1,0 +1,56 @@
+---
+title: How do patients, medical assistants and physicians accept and experience tablet-based
+  cognitive testing by medical assistants in general practice? - A qualitative study
+authors:
+- Kristin Rolke
+- Carolin Rosendahl
+- Klaus Weckbecker
+- Alexander Hanke
+- Michael Wagner
+- Leon Nissen
+- Lara Marie Reimer
+- Stephan Jonas
+- Philipp Schaper
+- Jochen René Thyrian
+- Florian Schweizer
+- Judith Tillmann
+date: '2025-05-01'
+publishDate: '2026-08-05T14:38:18.735931Z'
+publication_types:
+- article-journal
+publication: '*BMC Primary Care*'
+doi: 10.1186/s12875-025-02823-z
+abstract: Abstract  Background Approximately 1.8 million people with dementia live
+  in Germany and the number is expected to increase in the coming years. Between 360,000
+  and 440,000 new cases are diagnosed each year. General practitioners (GPs) are often
+  the first point of contact for people with concerns about their memory performance
+  or already noticed symptoms of dementia. However, structural barriers can hinder
+  timely diagnosis by GPs, resulting in diagnoses frequently being made later in the
+  disease’s progression. Tablet-based cognitive testing, carried out by medical assistants
+  (MAs) in GP practices, is being tested in the iCreate feasibility study, and could
+  facilitate detection of dementia, allowing those affected to receive timely treatment
+  and support. However, the acceptance, user experience and perceived benefits and
+  consequences of routine implementation of such a not established procedure remain
+  unclear until now.   Methods In this qualitative study, seven GPs, six MAs and eight
+  patients were qualitatively interviewed regarding the acceptance, user experience
+  of the tablet-based procedure and its implications for GP care. Semi-structured
+  interviews were conducted using newly developed guidelines, recorded, transcribed
+  and analysed according to Kuckartz and Rädiker using MAXQDA.   Results All respondent
+  groups had a positive perception of the digital testing in GP practices. Interviewed
+  MAs welcomed the new responsibilities, and patients gladly accepted the opportunity
+  of cognitive assessment in response to their memory concerns. GPs supported delegating
+  additional tasks to MAs. Patients found the digital testing tasks feasible to complete
+  on the tablet and MAs also had positive experiences using the tablet as test administrators.
+  All groups can generally envision a long-term implementation of the tests in practice,
+  but also noted possible barriers, like the need for additional communication with
+  specialists, limited time resources, and currently insufficient remuneration of
+  cognitive testing.   Conclusions The positive user experience and high acceptance
+  of participants indicate that tablet-based cognitive testing in GP settings can
+  be highly feasible and can thus lead to indicated specialist referrals. Consequently,
+  the management of patients exhibiting dementia symptoms should increasingly commence
+  in GP practices, receive adequate funding, and occur in close collaboration with
+  other specialized disciplines.
+links:
+- name: URL
+  url: https://bmcfampract.biomedcentral.com/articles/10.1186/s12875-025-02823-z
+---
